@@ -1,7 +1,7 @@
 {
-  "name": "language-rust",
-  "version": "0.4.12",
-  "description": "Rust language support in Atom",
+  "name": "rust-lang",
+  "version": "0.5.0",
+  "description": "Rust language support in Atom. Forked from language-rust.",
   "keywords": [
     "rust",
     "language",
@@ -13,12 +13,12 @@
     "atom": ">0.50.0 <2.0.0"
   },
   "dependencies": {},
-  "homepage": "https://github.com/zargony/atom-language-rust",
+  "homepage": "https://gitlab.com/TheDarkula/rust-lang-atom",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zargony/atom-language-rust.git"
+    "url": "https://gitlab.com/TheDarkula/rust-lang-atom.git"
   },
   "bugs": {
-    "url": "https://github.com/zargony/atom-language-rust/issues"
+    "url": "https://gitlab.com/TheDarkula/rust-lang-atom/issues"
   }
 }
