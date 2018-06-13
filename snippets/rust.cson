@@ -49,20 +49,20 @@
       \t$2
       }
     '''
-      'else if':
-        'prefix': 'elif'
-        'body': '''
-          else if ${1:expression} {
-          \t$2
-          }
-        '''
-      'else':
-        'prefix': 'else'
-        'body': '''
-          else {
-          \t$2
-          }
-        '''
+  'else if':
+    'prefix': 'elif'
+    'body': '''
+      else if ${1:expression} {
+      \t$2
+      }
+    '''
+  'else':
+    'prefix': 'else'
+    'body': '''
+      else {
+      \t$2
+      }
+    '''
   'impl':
     'prefix': 'impl'
     'body': '''

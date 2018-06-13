@@ -1,8 +1,8 @@
 # rust-lang
 Rust language support in Atom. Forked from language-rust.
 
-## New In 0.5.0
-  *  Added `else if` and `else` statements.
+## New In 0.5.1
+  *  Fixed incorrect tabbing.
 
 ## Full Changelog
   * [Available Here](CHANGELOG.md)
